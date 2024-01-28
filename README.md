@@ -17,6 +17,10 @@ or simply
 
 # usage
 
+to download the model, `bash download.sh`
+
+then, to test it:
+
 ```python
 import torch
 from vqgan_nodep import VQModel
