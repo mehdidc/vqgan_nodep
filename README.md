@@ -1,9 +1,9 @@
-VQGAN from LDM without hell of dependencies 
+# VQGAN from Latent Diffusion Models/Taming Transformers without hell of dependencies 
 
 because, we don't need pytorch lightning and all the code base from https://github.com/CompVis/taming-transformers
 to load VQGAN.
 
-# install 
+## Install 
 
 ```bash
 git clone https://github.com/mehdidc/vqgan_nodep
@@ -15,7 +15,7 @@ or simply
 
 `pip install git+https://github.com/mehdidc/vqgan_nodep`
 
-# usage
+## Usage
 
 to download the model:
 
